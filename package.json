@@ -1,0 +1,23 @@
+{
+  "name": "latinolead",
+  "version": "1.0.0",
+  "description": "This is a website for the non-profit organization ",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "npm": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosePabloo/LatinoLead.git"
+  },
+  "author": "Jose Perales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosePabloo/LatinoLead/issues"
+  },
+  "homepage": "https://github.com/JosePabloo/LatinoLead#readme"
+}
